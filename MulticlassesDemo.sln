@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticlassesDemo", "MulticlassesDemo\MulticlassesDemo.csproj", "{71D26177-6D0B-4093-A8CD-F9FFE09CBDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D26177-6D0B-4093-A8CD-F9FFE09CBDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D26177-6D0B-4093-A8CD-F9FFE09CBDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D26177-6D0B-4093-A8CD-F9FFE09CBDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D26177-6D0B-4093-A8CD-F9FFE09CBDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E88E7DA-56F8-4E08-BB7F-4003B3E8F679}
+	EndGlobalSection
+EndGlobal
